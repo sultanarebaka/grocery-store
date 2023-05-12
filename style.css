@@ -11,6 +11,15 @@ outline:none;
 border:none;
   }
 
+  body{
+    background-color: #FDFF8F;
+  }
+  .header{
+    position:fixed;
+    top:0;
+    left:0;
+  }
   html{
     font-size: 52%;
+
   }
